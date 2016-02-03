@@ -8,6 +8,7 @@ Caffeine
 Characters
 CleanMyMac3
 Coda
+CloudUp
 Codebox
 CodeKit
 ColorSchemer Studio
